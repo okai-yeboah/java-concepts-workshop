@@ -6,5 +6,17 @@
 
 public class Addition {
 
+    public void add(int a, int b) {
+    }
+
+    public void add(int a, int b, int c) {
+    }
+
+    public void add(int a, int b, double c) {
+    }
+
+    public void add(String a, String b) {
+    }
+
 }
 
